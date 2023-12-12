@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T01:43:28.262Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KZh4EepfPr42n3DbhMZ8" version="22.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-12T01:47:16.863Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RjUlJdoyiUtzBHVyR9MU" version="22.1.7" type="github" pages="2">
   <diagram name="Carbon pool pathway" id="w9bmsyJULUGU3eWK0ImN">
     <mxGraphModel dx="862" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -60,8 +60,11 @@
         <mxCell id="E0DCC_EIFW5zAiYpByB4-8" value="$$u_w$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="280" y="350" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E0DCC_EIFW5zAiYpByB4-9" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="150" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="E0DCC_EIFW5zAiYpByB4-10" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E0DCC_EIFW5zAiYpByB4-11" value="$$C_{mineral}$$" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ededed;" vertex="1" parent="1">
+          <mxGeometry x="145" y="355" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
