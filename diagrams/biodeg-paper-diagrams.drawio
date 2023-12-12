@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T01:14:10.732Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Dgw8equdRoKHQnqbCn8p" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T01:43:28.262Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KZh4EepfPr42n3DbhMZ8" version="22.1.7" type="github" pages="2">
   <diagram name="Carbon pool pathway" id="w9bmsyJULUGU3eWK0ImN">
-    <mxGraphModel dx="1195" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="862" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,38 @@
         </mxCell>
         <mxCell id="1BXOtiP-ACeCL6t7-eHm-12" value="$$k_{inter}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="252" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6LhWbnDel-XK7JpK8X_l" name="Bayesian model 1">
+    <mxGraphModel dx="451" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E0DCC_EIFW5zAiYpByB4-1" value="$$k$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E0DCC_EIFW5zAiYpByB4-2" value="$$\log m$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E0DCC_EIFW5zAiYpByB4-3" value="$$c_{inter}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E0DCC_EIFW5zAiYpByB4-4" value="$$k_{inter}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E0DCC_EIFW5zAiYpByB4-5" value="$$s$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E0DCC_EIFW5zAiYpByB4-6" value="$$u_n$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E0DCC_EIFW5zAiYpByB4-8" value="$$u_w$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E0DCC_EIFW5zAiYpByB4-9" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
