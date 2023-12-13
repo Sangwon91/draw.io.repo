@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T06:27:15.464Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zbdbCyR7pmg_Jw_2iDUq" version="22.1.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-13T00:52:35.813Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GpX5aMhaBDhuHIChni_S" version="22.1.7" type="github" pages="3">
   <diagram name="Carbon pool pathway" id="w9bmsyJULUGU3eWK0ImN">
     <mxGraphModel dx="717" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -148,7 +148,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bayesian model 2" id="7n9U5RIF3Qn2yNHu1IkQ">
-    <mxGraphModel dx="819" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="989" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="QyrYadbDAyCNFbzv-6Sb-0" />
         <mxCell id="QyrYadbDAyCNFbzv-6Sb-1" parent="QyrYadbDAyCNFbzv-6Sb-0" />
@@ -249,7 +249,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I2vGS5JBCJdYSaKRd8A3-4" value="" style="endArrow=block;html=1;rounded=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;dashed=1;" edge="1" parent="QyrYadbDAyCNFbzv-6Sb-1" source="I2vGS5JBCJdYSaKRd8A3-0" target="QyrYadbDAyCNFbzv-6Sb-11">
+        <mxCell id="I2vGS5JBCJdYSaKRd8A3-4" value="" style="endArrow=block;html=1;rounded=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;dashed=1;shadow=0;" edge="1" parent="QyrYadbDAyCNFbzv-6Sb-1" source="I2vGS5JBCJdYSaKRd8A3-0" target="QyrYadbDAyCNFbzv-6Sb-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="269.31" as="sourcePoint" />
             <mxPoint x="360" y="269.31" as="targetPoint" />
