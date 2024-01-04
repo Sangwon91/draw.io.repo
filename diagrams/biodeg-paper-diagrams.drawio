@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T08:27:36.238Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OjBiXUeuvBVKC48kkJED" version="22.1.11" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-04T06:23:32.032Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HxFnLVT7xGrcZ84neG10" version="22.1.11" type="github" pages="6">
   <diagram name="Carbon pool pathway" id="w9bmsyJULUGU3eWK0ImN">
     <mxGraphModel dx="2074" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -647,7 +647,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Fig. 4. Bayesian inference models v3" id="NyVVtZlN3g6Ob3xWD5tU">
-    <mxGraphModel dx="1185" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1687" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="RQdlIhTnDy77f3FQNvlV-0" />
         <mxCell id="RQdlIhTnDy77f3FQNvlV-1" parent="RQdlIhTnDy77f3FQNvlV-0" />
@@ -1026,6 +1026,13 @@
             <Array as="points">
               <mxPoint x="370" y="630" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1pSVuSDF1N3t-KPfqysE-15" value="" style="endArrow=block;html=1;rounded=1;fontFamily=Helvetica;fontSize=10;fontColor=default;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="RQdlIhTnDy77f3FQNvlV-1" source="1pSVuSDF1N3t-KPfqysE-8" target="RQdlIhTnDy77f3FQNvlV-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188" y="457" as="sourcePoint" />
+            <mxPoint x="376" y="457" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
