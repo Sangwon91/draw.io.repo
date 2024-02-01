@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T01:11:12.844Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vy-X2mwhm-d7tDMnAn8F" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-01T07:21:39.543Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Vui2N2f47EREMr_kqeaC" version="22.1.18" type="github" pages="6">
   <diagram name="Carbon pool pathway" id="w9bmsyJULUGU3eWK0ImN">
     <mxGraphModel dx="1434" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -339,7 +339,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Fig. 4. Bayesian inference models v3" id="NyVVtZlN3g6Ob3xWD5tU">
-    <mxGraphModel dx="1190" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="985" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="RQdlIhTnDy77f3FQNvlV-0" />
         <mxCell id="RQdlIhTnDy77f3FQNvlV-1" parent="RQdlIhTnDy77f3FQNvlV-0" />
@@ -734,7 +734,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1UULzRYTazAwLjj0E9_e-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://matplotlib.org/stable/_images/sphx_glr_colormaps_006.png;" vertex="1" parent="RQdlIhTnDy77f3FQNvlV-1">
-          <mxGeometry x="650" y="131.86" width="410" height="216.53" as="geometry" />
+          <mxGeometry x="475.03" y="110.00000000000001" width="410" height="216.53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
