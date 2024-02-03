@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T16:27:13.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="FC5HQM3U62E8nrb-RTna" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T16:27:34.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="TNlA2ZcKWqwvgC-kwMBT" version="23.1.0" type="github">
   <diagram name="Page-1" id="ZrENTzr3K45VspEdxDzP">
     <mxGraphModel dx="2271" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -212,7 +212,7 @@
         <mxCell id="vCqHwj_-bdeTduItDin3-91" value="Output time series" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480.63" y="120" width="113.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vCqHwj_-bdeTduItDin3-92" value="$$T \times N_{T}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vCqHwj_-bdeTduItDin3-92" value="$$T_{dec} \times N_{T}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="546" y="160" width="51.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vCqHwj_-bdeTduItDin3-93" value="$$T \times d_{model}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
