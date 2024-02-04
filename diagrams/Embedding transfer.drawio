@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T04:40:04.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="NPL9fWoeJDADYO87njpu" version="23.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-04T11:08:22.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="WJ1_bp4g3O3iq0Jsd9Si" version="23.1.1" type="github" pages="2">
   <diagram name="Architecture" id="ZrENTzr3K45VspEdxDzP">
     <mxGraphModel dx="940" dy="2204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="vCqHwj_-bdeTduItDin3-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vCqHwj_-bdeTduItDin3-48" target="vCqHwj_-bdeTduItDin3-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vCqHwj_-bdeTduItDin3-48" value="Transformer encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="vCqHwj_-bdeTduItDin3-48" value="Transformer decoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="419.5" y="430" width="279" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vCqHwj_-bdeTduItDin3-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dbdbdb;" parent="1" vertex="1">
@@ -168,6 +168,10 @@
         <mxCell id="vCqHwj_-bdeTduItDin3-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="vCqHwj_-bdeTduItDin3-95" target="vCqHwj_-bdeTduItDin3-82" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="509" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="513" y="240" />
+              <mxPoint x="557" y="240" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vCqHwj_-bdeTduItDin3-74" value="Linear" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -224,8 +228,8 @@
         <mxCell id="vCqHwj_-bdeTduItDin3-93" value="$$T \times d_{model}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="479" y="497.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vCqHwj_-bdeTduItDin3-95" value="Chunk&lt;br&gt;embedding" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="478.25" y="260" width="70" height="30" as="geometry" />
+        <mxCell id="vCqHwj_-bdeTduItDin3-95" value="Chunk&lt;br&gt;embedding" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="478.25" y="250" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vCqHwj_-bdeTduItDin3-97" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="vCqHwj_-bdeTduItDin3-74" target="vCqHwj_-bdeTduItDin3-95" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
