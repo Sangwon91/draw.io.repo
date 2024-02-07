@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T12:19:12.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="DnjRINMlfE4wZhU39cLY" version="23.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-07T12:50:09.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="77N77CMlgSJrQI8Mv7hM" version="23.1.1" type="github" pages="3">
   <diagram name="Architecture" id="ZrENTzr3K45VspEdxDzP">
-    <mxGraphModel dx="778" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2060" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z0SPPOndARReZGhMJB0b" name="Nucleation">
-    <mxGraphModel dx="537" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2060" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,6 +331,56 @@
         </mxCell>
         <mxCell id="wDdeJaoN25CZzX-54Qzs-45" value="Time series #3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="650" y="402.5" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ayy4ovw7pG2UTgRPLsjH" name="Information transfer explained">
+    <mxGraphModel dx="824" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OC99JwPeQI4z_buV7wjf-1" value="$$E$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="550" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC99JwPeQI4z_buV7wjf-2" value="$$x_1$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="550" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC99JwPeQI4z_buV7wjf-3" value="$$x_2$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="550" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC99JwPeQI4z_buV7wjf-4" value="$$x_3$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="550" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC99JwPeQI4z_buV7wjf-6" value="$$\cdots$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="565" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OC99JwPeQI4z_buV7wjf-7" value="$$x_{N-1}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="550" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC99JwPeQI4z_buV7wjf-8" value="$$x_{N}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="550" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC99JwPeQI4z_buV7wjf-9" value="$$\tilde{E}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC99JwPeQI4z_buV7wjf-10" value="$$\tilde{x}_1$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC99JwPeQI4z_buV7wjf-11" value="$$\tilde{x}_2$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC99JwPeQI4z_buV7wjf-12" value="$$\tilde{x}_3$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC99JwPeQI4z_buV7wjf-13" value="$$\cdots$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OC99JwPeQI4z_buV7wjf-14" value="$$\tilde{x}_{N-1}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="360" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC99JwPeQI4z_buV7wjf-15" value="$$\tilde{x}_{N}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
